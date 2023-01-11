@@ -1,0 +1,14 @@
+<html>
+<head>
+          <title>my web page</title>
+
+</head>
+<body>
+     <image src="C:\Users\Lenovo\Downloads\bee-flower-27533578.jpg" />
+       <h1>Images in html</h1>
+</body>
+
+
+
+
+</html>
